@@ -19,7 +19,7 @@ $(document).ready(function(){
 		testNumLength(number);
     });
     $("#operators a").not("#equals").click(function(){
-		operator = $(this).text();
+		operator += $(this).text();
 		newnumber = number;
 		number = "";
 		totaldiv.text("0");
