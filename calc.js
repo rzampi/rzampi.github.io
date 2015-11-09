@@ -20,7 +20,7 @@ $(document).ready(function(){
     });
     $("#operators a").not("#equals").click(function(){
 		operator += $(this).text();
-		newnumber += number;
+		newnumber = number;
 		number = "";
 		totaldiv.text("0");
     });
