@@ -1,0 +1,888 @@
+
+<!DOCTYPE html>
+	 
+     <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=10" />
+ 	  	<link rel="canonical" href="http://newjersey.news12.com/" />
+								<title>News 12 New Jersey - News, Traffic &amp; Weather | News 12 New Jersey</title>
+<meta name="description" content="Find all the news, traffic, and weather for the entire New Jersey community with News 12 New Jersey." />
+<meta name="keywords" content="" />
+<meta name="msvalidate.01" content="AC41EB10D1EC6B5358F0ECA0E861CCAA" />
+<meta name="google-site-verification" content="iGduUJJBBUsFSYrNxc70_bwVm6rFWC2ZztRCW7zVr7A" />
+<meta name="application-name" content="News 12"/>
+<meta name="msapplication-TileColor" content="#022d89"/> 	
+<meta name="msapplication-TileImage" content="http://newjersey.news12.com/n12-win8-logo.png"/>	
+  <link rel="shortcut icon" href="http://newjersey.news12.com/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://newjersey.news12.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="http://newjersey.news12.com/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://newjersey.news12.com/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="http://newjersey.news12.com/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://newjersey.news12.com/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="http://newjersey.news12.com/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://newjersey.news12.com/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="http://newjersey.news12.com/apple-touch-icon-152x152.png" />
+<link rel="apple-touch-icon" href="http://newjersey.news12.com/apple-touch-icon-precomposed.png" />
+<link href="https://plus.google.com/107720084614996071460" rel="publisher" />
+<meta name="p:domain_verify" content="f9711eed7b28a8c3c85e0f92a1346199"/>
+      <link rel="image_src" href="http://cdn.newsday.com/polopoly_fs/1.5034497.1407061540!/httpImage/image.jpeg_gen/derivatives/display_2008/image.jpeg" /> 
+<meta property="og:title" content="News 12 New Jersey - News, Traffic &amp; Weather"/>
+<meta property="og:url" content="http://newjersey.news12.com/"/>
+<meta property="og:image" content="http://cdn.newsday.com/polopoly_fs/1.5034497.1407061540!/httpImage/image.jpeg_gen/derivatives/display_2008/image.jpeg"/>
+<meta property="og:site_name" content="News 12 New Jersey"/>
+<meta property="og:description" content="Find all the news, traffic, and weather for the entire New Jersey community with News 12 New Jersey."/>
+<meta property="og:type" content="website" />
+<meta property="fb:app_id" content="127330847051"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@News12NJ"/>
+<meta name="twitter:title" content="News 12 New Jersey - News, Traffic &amp; Weather">
+<meta name="twitter:description" content="Find all the news, traffic, and weather for the entire New Jersey community with News 12 New Jersey.">
+<meta name="twitter:image" content="http://cdn.newsday.com/polopoly_fs/1.5034497.1407061540!/httpImage/image.jpeg_gen/derivatives/display_2008/image.jpeg">
+<meta name="twitter:app:id:iphone" content="444268184" />
+<meta name="twitter:app:id:ipad" content="444268184" />
+<meta name="twitter:app:id:googleplay" content="com.sentinelbd.news12" />
+<link rel="alternate" type="application/rss+xml" title="NEW JERSEY 612 FEED GOOD" href="http://newjersey.news12.com/xml/1.3952923"/>
+<meta property="pinterest" content="http://cdn.newsday.com/polopoly_fs/1.5034497.1407061540!/httpImage/image.jpeg_gen/derivatives/display_2008/image.jpeg"  />
+			<link rel="shortcut icon" href="http://newjersey.news12.com/favicon.ico"/>
+<link rel="icon" type="image/ico" href="http://newjersey.news12.com/favicon.ico"/>
+	<link href="http://newjersey.news12.com/build/n12_base.min.css" rel="stylesheet" type="text/css" />
+     <link href="http://newjersey.news12.com/build/n12_front.min.css" rel="stylesheet" type="text/css" />
+<script src="http://newjersey.news12.com/js/libs/jquery-1.11.1.min.js"></script>
+	<script src="http://newjersey.news12.com/js/libs/jquery-migrate-1.2.1.min.js"></script>
+<script src="http://newjersey.news12.com/js/libs/modernizr.js"></script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script src="http://newjersey.news12.com/build/tools_news12.min.js"></script>
+<script src="http://newjersey.news12.com/js/s_nd_code_news12.js"></script>
+
+           <style>
+#gateOpt {width: 580px;}
+  #primary #gateOpt .btn {width: 22%; border-radius:0; border:0 none; margin-bottom:20px;}
+  #primary #gateOpt div {margin-bottom:50px;}
+
+.fa-play time {display:none;} 
+
+</style>
+
+        <script>
+ alert = function() {};
+  
+  //fixes console errors in IE
+console.log = function() {};
+  
+</script>
+
+   </head>
+  <body id="news" class="news12">
+<div id="fb-root"></div>
+   <div class="fbIdBox" style="display:none">127330847051</div>
+   <div id="header">
+				     	     			       			       <div class="ad pencil">
+			       		<div class="adBanner"> </div>
+			       </div>
+		       	       	     		<div class="inner">
+	 <div class="left bug">
+							  	  			    <a class="weather top" href="http://newjersey.news12.com/weather">
+    	<span><img src="http://newjersey.news12.com/weather/wsi-sm/wx_98.png" width="54" height="54" alt="Broken Clouds"></span>
+        <strong>50&deg;</strong>
+        <b>Broken Clouds</b></a>          					 																														<a class="traffic" href="http://newjersey.news12.com/traffic_front"><span></span><strong>0</strong><b>Traffic Alerts</b>
+</a>
+	     </div>
+    <!-- END LEFT -->
+         <div itemscope itemtype="http://schema.org/Organization">
+        <meta content="News 12 New Jersey" itemprop="name" />
+        <a itemprop="url" href="http://newjersey.news12.com" id="logo">
+      	  <img itemprop="logo" src="http://newjersey.news12.com/img/news12/news12-logo-nj_n12.png" width="278" height="95" alt="News 12" />
+        </a>
+     </div>
+    <div class="right bug">
+		<ul id="login" class="top">
+				  			<li class="not-loggedin">
+									<a href="http://newjersey.news12.com/login" class="arrow loginFullSubmit" id="mainLogin">Log in <span></span></a>			
+		</li>
+		<li class="box-user loggedin flytop">
+		<ul>
+			<li class="loginlist"><a href="https://newjersey.news12.com/services/profile-7.3986896">Preferences</a></li>
+			<li class="loginlist loggedin"><a href="/logout" class="logout" name="&lid=top-nav:log out">Log out</a></li>
+		</ul>
+	</li>	
+					<li class="region">
+<a id="region" href="#">Change region <span></span></a>
+<div id="regFly" class="flyout">
+<p>Select your region below to change the location of news to your region.</p>
+<a href="http://bronx.news12.com/" region="bronx">The Bronx</a>
+<a href="http://longisland.news12.com/" region="longisland">Long Island</a>
+<a href="http://brooklyn.news12.com/" region="brooklyn">Brooklyn</a>
+<a href="http://newjersey.news12.com/" region="newjersey">New Jersey</a>
+<a href="http://connecticut.news12.com/" region="connecticut">Connecticut</a>
+<a href="http://westchester.news12.com/" region="westchester">Westchester</a>
+<a href="http://hudsonvalley.news12.com/" region="hudsonvalley">Hudson Valley</a>
+</div>
+</li>		</ul>	
+		 <form id="search" class="search-hdr text clean" name="search-form" accept-charset="utf-8" method="post" action="/search">
+		  <fieldset>
+		   <input type="text" class="text" id="searchQ" placeholder="search news12.com" name="q" />
+		   <input type="hidden" name="site" value="News12NewJersey.d" />
+		   <input type="hidden" name="search_token" value="1952fb5a58a2f88dd7575f462a4f0c81520b372d" />
+		   <button value="Go" class="btn" id="searchButton" type="submit">Go</button>
+		  </fieldset>
+		 </form>
+    </div>
+    <!-- END RIGHT -->
+    </div>
+</div>
+<!-- END HEADER -->
+   <div id='nav'>
+  <ul><li id='navNews'><a href='http://newjersey.news12.com'>News</a></li><li id='navWeather'><a href='http://newjersey.news12.com/weather'>Weather</a></li><li id='navTraffic'><a href='http://newjersey.news12.com/traffic'>Traffic</a></li><li id='navNumbers'><a href='http://newjersey.news12.com/news/numbers-and-links/numbers-and-links-1.4106706'>Numbers &amp;  Links</a></li><li id='navSports'><a href='http://newjersey.news12.com/sports'>Sports</a></li><li id='navPolls'><a href='http://newjersey.news12.com/polls'>Polls</a></li><li id='navNewsteam'><a href='http://newjersey.news12.com/news-team'>News Team</a></li><li id='navPhotovideo'><a href='http://newjersey.news12.com/multimedia'>Videos &amp; Photos</a></li><li id='navTravel'><a href='http://newjersey.news12.com/travel'>Travel</a></li><li class='fb'><a href='https://www.facebook.com/News12NJ'>Facebook</a></li><li class='twit'><a href='https://twitter.com/news12nj'>Twitter</a></li>
+  </ul>
+</div>
+
+<div id="subNav">
+  <div class="inner"> 	
+        	  	    	      	        								 <a class="" href="http://newjersey.news12.com/news" name="&lid=sub-nav:New Jersey"> New Jersey</a>                      	        								 <a class="" href="http://newjersey.news12.com/news/tri-state" name="&lid=sub-nav:Tri-State"> Tri-State</a>                      	        								 <a class="" href="/news/nation-world" name="&lid=sub-nav:Nation/World"> Nation/World</a>                      	        								 <a class="" href="http://newjersey.news12.com/features" name="&lid=sub-nav:Features"> Features</a>                      	        								 <a class="" href="http://newjersey.news12.com/business" name="&lid=sub-nav:Business"> Business</a>                      	        								 <a class="" href="http://newjersey.news12.com/entertainment" name="&lid=sub-nav:Entertainment"> Entertainment</a>                      	        								 <a class="" href="http://newjersey.news12.com/1.4682157" name="&lid=sub-nav:Lottery "> Lottery </a>                      	        													 				 <a class="btn" href="http://newjersey.news12.com/weather/new-jersey-news-12-traffic-and-weather-live-1.3925828" name="&lid=sub-nav:Traffic & Weather Live"><span></span> Traffic & Weather Live</a>                      	        													 				 <a class="btn" href="http://newjersey.news12.com/news/news-12-new-jersey-live-1.3925819" name="&lid=sub-nav:News 12 Live"><span></span> News 12 Live</a>                               											 			  																																														  </div>
+</div>       <div id="bodyContainer">
+  <div id="main">
+                <a href="http://newjersey.news12.com/sports/friday-night-football-1.4102500"><img style="border: 0px solid ; width: 980px; height: 70px;" alt="FNF Preview" src="http://cdn.news12.com/polopoly_fs/1.10797696.1441137036!/httpImage/image.jpg_gen/derivatives/display_2008/image.jpg"></a>
+        		       	  	    			  			<div id="topCarousel" class="home">
+			<div class="topStory">	
+ <h1>Top Stories</h1>
+      <a data-name="Top Carousel:Top Story" class="top carosel vid" href="http://newjersey.news12.com/news/rahway-woman-yolanda-vega-found-murdered-in-her-home-1.11201990#autoplay=true">
+                                    <img src="http://cdn.newsday.com/polopoly_fs/1.11202620.1449521367!/httpImage/image.jpg_gen/derivatives/preview_400/image.jpg" class="" height="299" width="400" alt="Woman found murdered in Rahway home" title="Woman found murdered in Rahway home..."/>
+     <span class='fa fa-play fab'></span>
+    </a>
+    <a data-name="Top Carousel:Top Story" class="lead" href="http://newjersey.news12.com/news/rahway-woman-yolanda-vega-found-murdered-in-her-home-1.11201990#autoplay=true"> Woman found murdered in Rahway home</a>
+  	<em>5:45 PM</em>
+    <span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/rahway-woman-yolanda-vega-found-murdered-in-her-home-1.11201990#autoplay=true" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/rahway-woman-yolanda-vega-found-murdered-in-her-home-1.11201990#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11201990"></span></a>
+       </span>  </div>			
+			
+			<div class="carousel">
+			<ul>	  
+							    				    									    		
+    								 							    				    															<li><ul> 
+					    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 2" class="img vid carosel" href="http://newjersey.news12.com/news/weeklong-bear-hunt-gets-underway-in-new-jersey-1.11200663#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11200666.1449484487!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="1207 NJ bear" title="1207 NJ bear..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:1 - 2" class="lead carosel" href="http://newjersey.news12.com/news/weeklong-bear-hunt-gets-underway-in-new-jersey-1.11200663#autoplay=true">Weeklong bear hunt gets underway in NJ</a>
+	<em> 5:48 PM</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/weeklong-bear-hunt-gets-underway-in-new-jersey-1.11200663#autoplay=true" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/weeklong-bear-hunt-gets-underway-in-new-jersey-1.11200663#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11200663"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 3" class="img vid carosel" href="http://newjersey.news12.com/news/new-jersey-senate-passes-bill-focused-on-making-smart-guns-prevalent-1.11202824#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11202833.1449524496!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="New Jersey Senate passes smart gun bill" title="New Jersey Senate passes smart gun bill..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:1 - 3" class="lead carosel" href="http://newjersey.news12.com/news/new-jersey-senate-passes-bill-focused-on-making-smart-guns-prevalent-1.11202824#autoplay=true">New Jersey Senate passes smart gun bill</a>
+	<em> 4:43 PM</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/new-jersey-senate-passes-bill-focused-on-making-smart-guns-prevalent-1.11202824#autoplay=true" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/new-jersey-senate-passes-bill-focused-on-making-smart-guns-prevalent-1.11202824#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11202824"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 4" class="img  carosel" href="http://newjersey.news12.com/news/new-jersey-to-lower-flags-for-california-shooting-victims-1.11203202">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11203203.1449529161!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="NJ to lower flags for California shooting victims" title="NJ to lower flags for California shooting victims..."/>
+      </a>
+  <a data-name="Top Carousel:1 - 4" class="lead carosel" href="http://newjersey.news12.com/news/new-jersey-to-lower-flags-for-california-shooting-victims-1.11203202">NJ to lower flags for California shooting victims</a>
+	<em> 6:01 PM</em>
+<span class="mediaType">
+          	 	      	    				        <a class="" href="http://newjersey.news12.com/news/new-jersey-to-lower-flags-for-california-shooting-victims-1.11203202#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11203202"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 5" class="img vid carosel" href="http://newjersey.news12.com/sports/rutgers-university-hires-ohio-state-s-chris-ash-as-new-head-football-coach-1.11201396#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11196121.1449347137!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="NJash1205" title="NJash1205..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:1 - 5" class="lead carosel" href="http://newjersey.news12.com/sports/rutgers-university-hires-ohio-state-s-chris-ash-as-new-head-football-coach-1.11201396">Rutgers agrees to hire Ash as football coach</a>
+	<em> 6:32 PM</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/sports/rutgers-university-hires-ohio-state-s-chris-ash-as-new-head-football-coach-1.11201396" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/sports/rutgers-university-hires-ohio-state-s-chris-ash-as-new-head-football-coach-1.11201396#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/sports/1.11201396"></span></a>
+       </span>  </li>    								 							    				    					</ul><ul>
+					    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 6" class="img vid carosel" href="http://newjersey.news12.com/news/weather-mild-partly-cloudy-tuesday-1.11200682#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.9703593.1418299413!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="NJ WEATHER ON THE ONES" title="NJ WEATHER ON THE ONES..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:1 - 6" class="lead carosel" href="http://newjersey.news12.com/news/weather-mild-partly-cloudy-tuesday-1.11200682">Weather: Mild, partly cloudy Tuesday</a>
+	<em> 3:57 PM</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/weather-mild-partly-cloudy-tuesday-1.11200682" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/weather-mild-partly-cloudy-tuesday-1.11200682#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11200682"></span></a>
+       </span>     <a class="rel" href="/weather">Weather Center</a>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 7" class="img  carosel" href="http://newjersey.news12.com/news/higher-tolls-take-effect-at-hudson-river-bridges-tunnels-1.11200634">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11200648.1449483805!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="1207 NJ tolls" title="1207 NJ tolls..."/>
+      </a>
+  <a data-name="Top Carousel:1 - 7" class="lead carosel" href="http://newjersey.news12.com/news/higher-tolls-take-effect-at-hudson-river-bridges-tunnels-1.11200634">Higher tolls take effect at Hudson River crossings</a>
+	<em> 12/7/15</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/higher-tolls-take-effect-at-hudson-river-bridges-tunnels-1.11200634" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/higher-tolls-take-effect-at-hudson-river-bridges-tunnels-1.11200634#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11200634"></span></a>
+       </span>     <a class="rel" href="/news/1.4264339">Transportation</a>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 8" class="img  carosel" href="http://newjersey.news12.com/news/battleship-new-jersey-marks-pearl-harbor-anniversary-1.11200731">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11200732.1449487967!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="1207 NJ battleship" title="1207 NJ battleship..."/>
+      </a>
+  <a data-name="Top Carousel:1 - 8" class="lead carosel" href="http://newjersey.news12.com/news/battleship-new-jersey-marks-pearl-harbor-anniversary-1.11200731">Battleship NJ marks Pearl Harbor anniversary</a>
+	<em> 4:08 PM</em>
+<span class="mediaType">
+          	 	      	    				        <a class="" href="http://newjersey.news12.com/news/battleship-new-jersey-marks-pearl-harbor-anniversary-1.11200731#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11200731"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:1 - 9" class="img vid carosel" href="http://newjersey.news12.com/news/obama-terror-threat-against-us-has-entered-new-phase-1.11199977#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11199913.1449454904!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="President Barack Obama gives address on terrorism" title="President Barack Obama gives address on terrorism..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:1 - 9" class="lead carosel" href="http://newjersey.news12.com/news/obama-terror-threat-against-us-has-entered-new-phase-1.11199977">Obama: Terror threat against US has entered 'new phase'</a>
+	<em> 12/7/15</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/obama-terror-threat-against-us-has-entered-new-phase-1.11199977" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/obama-terror-threat-against-us-has-entered-new-phase-1.11199977#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11199977"></span></a>
+       </span>  </li>    								 							    				    										</ul></li>
+    					    															<li><ul> 
+					    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 10" class="img vid carosel" href="http://newjersey.news12.com/sports/jets-beat-giants-in-ot-on-bullock-field-goal-and-brown-miss-1.11200668#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11199127.1449452258!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="New York Giants wide receiver Odell Beckham (13)" title="New York Giants wide receiver Odell Beckham (13)..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 10" class="lead carosel" href="http://newjersey.news12.com/sports/jets-beat-giants-in-ot-on-bullock-field-goal-and-brown-miss-1.11200668">Jets rally to beat Giants in OT</a>
+	<em> 12/7/15</em>
+<span class="mediaType">
+  	      <a href="/news/show-your-jets-and-giants-pride-1.11192526" class="" name="name"><i class="fa fa-camera"></i></a>
+    	      <a href="http://newjersey.news12.com/sports/jets-beat-giants-in-ot-on-bullock-field-goal-and-brown-miss-1.11200668" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/sports/jets-beat-giants-in-ot-on-bullock-field-goal-and-brown-miss-1.11200668#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/sports/1.11200668"></span></a>
+       </span>     <a class="rel" href="/multimedia/1.11192526">Photos</a>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 11" class="img vid carosel" href="http://newjersey.news12.com/news/chicago-police-department-probe-announced-no-charges-in-2nd-shooting-1.11201400#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11199692.1449501952!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Rev. Jesse Jackson and the Rainbow PUSH Coalition" title="Rev. Jesse Jackson and the Rainbow PUSH Coalition..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 11" class="lead carosel" href="http://newjersey.news12.com/news/chicago-police-department-probe-announced-no-charges-in-2nd-shooting-1.11201400">Chicago Police Department probe announced</a>
+	<em> 6:03 PM</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/news/chicago-police-department-probe-announced-no-charges-in-2nd-shooting-1.11201400" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/chicago-police-department-probe-announced-no-charges-in-2nd-shooting-1.11201400#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11201400"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 12" class="img vid carosel" href="http://newjersey.news12.com/news/old-bridge-islamic-center-hosts-service-for-ca-victims-1.11198872#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11198879.1449440334!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="nj islamic center" title="nj islamic center..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 12" class="lead carosel" href="http://newjersey.news12.com/news/old-bridge-islamic-center-hosts-service-for-ca-victims-1.11198872">Old Bridge Islamic center hosts service for CA victims</a>
+	<em> 12/6/15</em>
+<span class="mediaType">
+    	      <a href="http://newjersey.news12.com/multimedia/old-bridge-islamic-center-hosts-service-for-ca-victims-1.11199011" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="http://newjersey.news12.com/news/old-bridge-islamic-center-hosts-service-for-ca-victims-1.11198872#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11198872"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 13" class="img vid carosel" href="/news/union-beach-firehouse-robbed-1.11197914#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11199190.1449442788!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="union beach" title="union beach..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 13" class="lead carosel" href="/news/union-beach-firehouse-robbed-1.11197914">Union Beach firehouse robbed</a>
+	<em> 12/6/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/union-beach-firehouse-robbed-1.11197935" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/union-beach-firehouse-robbed-1.11197914#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11197914"></span></a>
+       </span>  </li>    								 							    				    					</ul><ul>
+					    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 14" class="img vid carosel" href="/news/group-takes-portraits-of-cancer-patients-families-1.11198267#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11198273.1449428342!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="NJpictures1206" title="NJpictures1206..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 14" class="lead carosel" href="/news/group-takes-portraits-of-cancer-patients-families-1.11198267">Group takes portraits of cancer patients, families</a>
+	<em> 12/6/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/group-takes-portraits-of-cancer-patients-families-1.11198295" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/group-takes-portraits-of-cancer-patients-families-1.11198267#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11198267"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 15" class="img vid carosel" href="/news/man-stabbed-to-death-in-jersey-city-1.11197619#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.8022045.1436402964!/httpImage/image.PNG_gen/derivatives/preview_94/image.PNG" class="" height="70" width="94" alt="File photo" title="File photo..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 15" class="lead carosel" href="/news/man-stabbed-to-death-in-jersey-city-1.11197619">Man stabbed to death in Jersey City</a>
+	<em> 12/6/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/man-stabbed-to-death-in-jersey-city-1.11198982" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/man-stabbed-to-death-in-jersey-city-1.11197619#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11197619"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 16" class="img  carosel" href="/news/still-no-deal-on-atlantic-city-s-troubled-finances-1.11197782">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11197783.1449415447!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="This July 11, 2014, aerial photo, shows the" title="This July 11, 2014, aerial photo, shows the..."/>
+      </a>
+  <a data-name="Top Carousel:2 - 16" class="lead carosel" href="/news/still-no-deal-on-atlantic-city-s-troubled-finances-1.11197782">Still no deal on Atlantic City's troubled finances</a>
+	<em> 12/6/15</em>
+<span class="mediaType">
+          	 	      	    				        <a class="" href="/news/still-no-deal-on-atlantic-city-s-troubled-finances-1.11197782#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11197782"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:2 - 17" class="img vid carosel" href="/news/police-id-double-shooting-suspect-1.11196339#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11196348.1449354223!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="NJdoubleshooting1205" title="NJdoubleshooting1205..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:2 - 17" class="lead carosel" href="/news/police-id-double-shooting-suspect-1.11196339">Police ID double shooting suspect</a>
+	<em> 12/5/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/police-id-double-shooting-suspect-1.11196357" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/police-id-double-shooting-suspect-1.11196339#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11196339"></span></a>
+       </span>     <a class="rel" href="http://newjersey.news12.com/news/1.4264261">NJ Crime</a>  </li>    								 							    				    										</ul></li>
+    					    															<li><ul> 
+					    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 18" class="img vid carosel" href="/news/east-brunswick-residents-share-breakfast-with-santa-1.11195633#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11195692.1449333030!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="NJ-breakfastwithsanta" title="NJ-breakfastwithsanta..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 18" class="lead carosel" href="/news/east-brunswick-residents-share-breakfast-with-santa-1.11195633">East Brunswick residents share breakfast with Santa</a>
+	<em> 12/5/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/east-brunswick-residents-share-breakfast-with-santa-1.11195681" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/east-brunswick-residents-share-breakfast-with-santa-1.11195633#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11195633"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 19" class="img vid carosel" href="/news/man-struck-killed-helping-other-driver-1.11195608#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.9368118.1443879382!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="SITE GENERIC" title="SITE GENERIC..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 19" class="lead carosel" href="/news/man-struck-killed-helping-other-driver-1.11195608">Man struck, killed helping other driver</a>
+	<em> 12/5/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/man-struck-killed-helping-other-driver-1.11195637" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/man-struck-killed-helping-other-driver-1.11195608#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11195608"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 20" class="img vid carosel" href="/news/habitat-for-humanity-volunteers-start-work-on-freehold-home-1.11195720#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11195724.1449334421!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="NJhabitat1205" title="NJhabitat1205..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 20" class="lead carosel" href="/news/habitat-for-humanity-volunteers-start-work-on-freehold-home-1.11195720">Habitat volunteers start work on Freehold home</a>
+	<em> 12/5/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/habitat-volunteers-start-work-on-freehold-home-1.11195745" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/habitat-for-humanity-volunteers-start-work-on-freehold-home-1.11195720#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11195720"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 21" class="img vid carosel" href="/news/police-warn-of-holiday-package-thieves-1.11195366#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11195718.1449334077!/httpImage/image.jpeg_gen/derivatives/preview_94/image.jpeg" class="" height="70" width="94" alt="NJpackages1205" title="NJpackages1205..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 21" class="lead carosel" href="/news/police-warn-of-holiday-package-thieves-1.11195366">Police warn of holiday package thieves</a>
+	<em> 12/5/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/police-warn-of-holiday-package-thieves-1.11195373" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/police-warn-of-holiday-package-thieves-1.11195366#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11195366"></span></a>
+       </span>  </li>    								 							    				    					</ul><ul>
+					    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 22" class="img vid carosel" href="/news/fbi-california-shooting-investigated-as-act-of-terrorism-1.11191841#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194442.1449273748!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="SanBerShooters" title="SanBerShooters..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 22" class="lead carosel" href="/news/fbi-california-shooting-investigated-as-act-of-terrorism-1.11191841">FBI: California shooting investigated as act of terrorism</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/fbi-california-shooting-investigated-as-act-of-terrorism-1.11194836" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/fbi-california-shooting-investigated-as-act-of-terrorism-1.11191841#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11191841"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 23" class="img  carosel" href="/news/university-hospital-seeks-identity-of-patient-in-newark-1.11194719">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194720.1449282882!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Hospital seeks identity of patient in Newark" title="Hospital seeks identity of patient in Newark..."/>
+      </a>
+  <a data-name="Top Carousel:3 - 23" class="lead carosel" href="/news/university-hospital-seeks-identity-of-patient-in-newark-1.11194719">Hospital seeks identity of patient in Newark</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+          	 	      	    				        <a class="" href="/news/university-hospital-seeks-identity-of-patient-in-newark-1.11194719#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11194719"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 24" class="img vid carosel" href="/news/police-warn-about-package-thefts-this-holiday-season-1.11194779#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194781.1449285107!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Police warn about package thefts this holiday season" title="Police warn about package thefts this holiday season..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 24" class="lead carosel" href="/news/police-warn-about-package-thefts-this-holiday-season-1.11194779">Cops warn about package thefts this holiday season</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/police-warn-about-package-thefts-this-holiday-season-1.11195127" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/police-warn-about-package-thefts-this-holiday-season-1.11194779#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11194779"></span></a>
+       </span>     <a class="rel" href="http://newjersey.news12.com/news/1.4264261">NJ Crime</a>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:3 - 25" class="img vid carosel" href="/news/prosecutor-clifton-students-bomb-was-salad-dressing-cinnamon-1.11193483#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11193505.1449259585!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Prosecutor: Students' 'bomb' was dressing, cinnamon" title="Prosecutor: Students' 'bomb' was dressing, cinnamon..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:3 - 25" class="lead carosel" href="/news/prosecutor-clifton-students-bomb-was-salad-dressing-cinnamon-1.11193483">Prosecutor: Students' 'bomb' was dressing, cinnamon</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/prosecutor-students-bomb-was-dressing-cinnamon-1.11193550" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/prosecutor-clifton-students-bomb-was-salad-dressing-cinnamon-1.11193483#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11193483"></span></a>
+       </span>     <a class="rel" href="http://newjersey.news12.com/news/1.4264261">NJ Crime</a>  </li>    								 							    				    										</ul></li>
+    					    															<li><ul> 
+					    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 26" class="img vid carosel" href="/news/demarest-teen-creates-massive-christmas-display-in-mother-s-memory-1.11194795#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194802.1449285340!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Teen creates Christmas display in mom's memory" title="Teen creates Christmas display in mom's memory..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 26" class="lead carosel" href="/news/demarest-teen-creates-massive-christmas-display-in-mother-s-memory-1.11194795">Teen creates Christmas display in mom's memory</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/teen-creates-christmas-display-in-mom-s-memory-1.11194938" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/demarest-teen-creates-massive-christmas-display-in-mother-s-memory-1.11194795#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11194795"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 27" class="img vid carosel" href="/features/sandy/original-tree-of-hope-returns-to-union-beach-1.11194529#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194530.1449276718!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Original 'Tree of Hope' returns to Union Beach" title="Original 'Tree of Hope' returns to Union Beach..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 27" class="lead carosel" href="/features/sandy/original-tree-of-hope-returns-to-union-beach-1.11194529">Original 'Tree of Hope' returns to Union Beach</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/original-tree-of-hope-returns-to-union-beach-1.11194581" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/features/sandy/original-tree-of-hope-returns-to-union-beach-1.11194529#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/features/sandy/1.11194529"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 28" class="img vid carosel" href="/news/consumer-advocate-cars-with-open-recalls-should-be-fixed-before-sale-1.11194314#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194829.1449286111!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Advocate: Recalled cars should be fixed before sale" title="Advocate: Recalled cars should be fixed before sale..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 28" class="lead carosel" href="/news/consumer-advocate-cars-with-open-recalls-should-be-fixed-before-sale-1.11194314">Advocate: Recalled cars should be fixed before sale</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/advocate-recalled-cars-should-be-fixed-before-sale-1.11194373" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/consumer-advocate-cars-with-open-recalls-should-be-fixed-before-sale-1.11194314#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11194314"></span></a>
+       </span>     <a class="rel" href="/news/1.4264325">Consumer Stories</a>  </li>    								 							    				    									    		
+    				    					      					<li>
+          <a data-name="Top Carousel:4 - 29" class="img vid carosel" href="/multimedia/on-the-road-metuchen-christmas-tree-lighting-1.11194522">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194549.1449277353!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="On The Road: Metuchen Christmas Tree Lighting" title="On The Road: Metuchen Christmas Tree Lighting..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 29" class="lead carosel" href="/multimedia/on-the-road-metuchen-christmas-tree-lighting-1.11194522">On The Road: Metuchen Christmas Tree Lighting</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+          	 	      	    				        <a class="" href="/multimedia/on-the-road-metuchen-christmas-tree-lighting-1.11194522#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/multimedia/1.11194522"></span></a>
+       </span>  </li>    								 							    				    					</ul><ul>
+					    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 30" class="img  carosel" href="/news/flags-fly-at-half-staff-for-pvt-christopher-castaneda-1.11190435">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11190439.1449184829!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Flags to fly at half-staff for soldier from NJ" title="Flags to fly at half-staff for soldier from NJ..."/>
+      </a>
+  <a data-name="Top Carousel:4 - 30" class="lead carosel" href="/news/flags-fly-at-half-staff-for-pvt-christopher-castaneda-1.11190435">Flags fly at half-staff for soldier from NJ</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+          	 	      	    				        <a class="" href="/news/flags-fly-at-half-staff-for-pvt-christopher-castaneda-1.11190435#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11190435"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 31" class="img vid carosel" href="/news/us-lawmakers-tour-joint-base-maguire-dix-lakehurst-after-defense-bill-passes-1.11194434#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194429.1449273288!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="National officials tour the Joint Base" title="National officials tour the Joint Base..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 31" class="lead carosel" href="/news/us-lawmakers-tour-joint-base-maguire-dix-lakehurst-after-defense-bill-passes-1.11194434">US lawmakers tour Joint Base</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/us-lawmakers-tour-joint-base-after-defense-bill-passes-1.11194384" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/us-lawmakers-tour-joint-base-maguire-dix-lakehurst-after-defense-bill-passes-1.11194434#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11194434"></span></a>
+       </span>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 32" class="img vid carosel" href="/news/former-wall-school-superintendent-james-habel-going-to-prison-1.11193727#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11193732.1449263183!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Former Wall school superintendent going to prison" title="Former Wall school superintendent going to prison..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 32" class="lead carosel" href="/news/former-wall-school-superintendent-james-habel-going-to-prison-1.11193727">Former Wall school superintendent going to prison</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/former-wall-school-superintendent-going-to-prison-1.11193762" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/former-wall-school-superintendent-james-habel-going-to-prison-1.11193727#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11193727"></span></a>
+       </span>     <a class="rel" href="http://newjersey.news12.com/news/1.4264261">NJ Crime</a>  </li>    								 							    				    									    		
+    				    					      					<li>
+        <a data-name="Top Carousel:4 - 33" class="img vid carosel" href="/news/james-madison-school-in-garfield-evacuated-after-suv-crash-1.11193944#autoplay=true">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11193947.1449266706!/httpImage/image.jpg_gen/derivatives/preview_94/image.jpg" class="" height="70" width="94" alt="Garfield school evacuated after car crash" title="Garfield school evacuated after car crash..."/>
+     <span class='fa fa-play fab'></span> </a>
+  <a data-name="Top Carousel:4 - 33" class="lead carosel" href="/news/james-madison-school-in-garfield-evacuated-after-suv-crash-1.11193944">Garfield school evacuated after car crash</a>
+	<em> 12/4/15</em>
+<span class="mediaType">
+    	      <a href="/multimedia/garfield-school-evacuated-after-car-crash-1.11193981" class="" name="name"><i class="fa fa-video-camera"></i></a>
+        	 	      	    				        <a class="" href="/news/james-madison-school-in-garfield-evacuated-after-suv-crash-1.11193944#comments"><i class="fa fa-comment"></i><span class="comments-count" href="http://newjersey.news12.com/news/1.11193944"></span></a>
+       </span>  </li>    								 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 							 						 </ul></li> 			</ul>
+            <div class="controls"><a class="prev fa fa-caret-left" href="#"><span></span></a>
+            <div class="dots"></div>
+            <a class="next fa fa-caret-right" href="#"><span></span></a>
+			<a href="http://newjersey.news12.com/news/top-stories-1.4283564" class="arrow">ALL TOP STORIES <span></span></a>
+			</div>			
+			</div><!-- end: carousel -->
+			</div><!-- end: topCarousel -->
+                 <div class="fullBanner midPg"><div class="adBanner"></div></div>
+		   <div id="trafficWeather" class="">
+          
+  	  		  		 	  		 	  		  	  		  	  		  	                        <div class="left">
+        <div class="head"><h2><a href="http://newjersey.news12.com/weather">Traffic &amp; Weather Center</a></h2> <h3>Newark, NJ</h3></div>
+        <a href="http://newjersey.news12.com/weather" class="arrow change forecast">FULL FORECAST <span></span></a>
+                                 <div id="cc">
+        <div class="status"><img src="http://newjersey.news12.com/img/news12/weather/wsi-lrg/wx_98.png" width="89" height="93" alt="Broken Clouds"/></div>
+            <div>
+            <h4>Current Conditions</h4>
+            <p class="deg"><strong>50&deg;</strong> Broken Clouds</p>
+            <p class="stats">Feels Like: 50&deg;</sup> 
+            Humidity: 44% <br/> 
+            Wind: NNE 8 mph</p>
+            </div>
+        </div>
+        <!-- END conditions -->       
+        <div id="sevenDay">
+                  <h4>7 Day Forecast</h4>
+                <div class="links"><a class="arrow hourly" href="newjersey.news12.com/weather/newark-1.3923282?view=hourly">Hourly Forecast<span></span></a></div>        
+		          <div class="days">
+                             	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_69.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Mon</strong>
+				<span>55&deg;</span></div> 
+          	                    	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_65.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Tue</strong>
+				<span>48&deg;</span></div> 
+          	                    	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_69.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Wed</strong>
+				<span>51&deg;</span></div> 
+          	                    	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_69.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Thu</strong>
+				<span>56&deg;</span></div> 
+          	                    	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_67.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Fri</strong>
+				<span>57&deg;</span></div> 
+          	                    	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_65.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Sat</strong>
+				<span>58&deg;</span></div> 
+          	                    	              	              	             	              			        			    			    				<div><img src="http://newjersey.news12.com/img/news12/weather/wsi-sm/wx_66.png" width="54" height="54" alt="Cloudy Breezy">
+				<strong>Sun</strong>
+				<span>57&deg;</span></div> 
+          	                    	                    	                    	                  		  </div>
+		        </div>
+        <!-- END 7 day -->
+      <img class="radar" src="" width="248" height="150" alt="" data-radar-link="http://images.itv.weather.news12.com/weather/images/DOTCOM_NJ_THUMB_RAD_2.gif " />
+      		<div id="driveTimes" data-region="NJ" data-num="3">
+          <h3>Drive Times</h3>
+          <a href="http://newjersey.news12.com/traffic/drive-times" class="arrow driveTimes">View More Drive Times <span></span></a>
+		</div>
+	  </div>
+      <!-- END Left -->
+    <div class="module cubeAd">
+  	  	   	<div class="adBanner">
+   </div> 
+     <p>advertisement | <a name="name" href="/advertise">advertise on News 12</a></p>
+</div>    </div>
+    
+    <!-- END Weather --><!-- Start midpage -->
+    <div id="midpage">
+                  <div class="col ">
+        		  												       	  	                  					<div class="module  sm">
+	<h2>	    		<a href="http://newjersey.news12.com/1.4275863">Kane in Your Corner</a>    	</h2>    	  	             										
+																		        						     				<div class="lead sml vid">
+					<a href="http://newjersey.news12.com/news/consumer-advocate-cars-with-open-recalls-should-be-fixed-before-sale-1.11194314">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11194829.1449286111!/httpImage/image.jpg_gen/derivatives/preview_115/image.jpg" class="" height="86" width="115" alt="Advocate: Recalled cars should be fixed before sale" title="Advocate: Recalled cars should be fixed before sale..."/>
+     <span class='fa fa-play fab'></span> </a>
+					<a class="hl" href="http://newjersey.news12.com/news/consumer-advocate-cars-with-open-recalls-should-be-fixed-before-sale-1.11194314">Advocate: Recalled cars should be fixed before sale</a>
+					</div>
+       								    	  	             																<div class="ul">
+													<a href="http://newjersey.news12.com/news/kane-in-your-corner-unsafe-toys-1.11162046">KIYC: Unsafe toys</a>
+									    	  	             																				<a href="http://newjersey.news12.com/news/kane-in-your-corner-limit-social-media-to-protect-your-privacy-1.11148296">KIYC: Limit social media to protect your privacy</a>
+									    	  	             																				<a href="http://newjersey.news12.com/news/kane-in-your-corner-consumer-alert-on-buying-used-gift-cards-1.11122692">KIYC: Consumer alert on buying used gift cards</a>
+									    	  	             																				<a href="http://newjersey.news12.com/news/kane-in-your-corner-public-is-at-great-risk-for-identity-theft-1.11114443">KIYC: Public is at risk for identity theft</a>
+									    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				        		</div><!-- end: div class="ul" -->
+	    		<div class="rels"><br><br><a href="http://newjersey.news12.com/1.4275863">More Kane in Your Corner<span></span></a></div>
+	  </div><!-- end: div class="module" -->
+           							          			                     	  	                  <div class="module photos">
+  	   	   <h3><a href="http://newjersey.news12.com/sports/friday-night-football-1.4102500">Friday Night Football</a></h3>
+ 	      <div class="ul">
+     			    		             <a href="http://newjersey.news12.com/sports/friday-night-football-1.4102500" name="name" class="lead">                                <img src="http://cdn.newsday.com/polopoly_fs/1.4287095.1436377878!/httpImage/image._gen/derivatives/landscape_296/image." class="" height="166" width="296" alt="Your source for high school football in New" title="Your source for high school football in New..."/>
+    </a>
+        <p>
+         Your source for high school football in New Jersey.                   (News 12 New Jersey)
+                </p>
+     </div>
+     <div class="rels"><br><br><a href="http://newjersey.news12.com/sports/friday-night-football-1.4102500">All Videos<span></span></a> <a href="/features">More Features<span><span></a></div>
+  </div>  
+         			          			                     	  	                  <div class="module photos">
+  	   	   <h3><a href="http://newjersey.news12.com/features/1.9012374">TECH CHECK</a></h3>
+ 	      <div class="ul">
+     			   		             <a href="http://newjersey.news12.com/features/tech-check-1.9012374" name="name" class="lead">                                <img src="http://cdn.newsday.com/polopoly_fs/1.9012355.1407624203!/httpImage/image.jpeg_gen/derivatives/landscape_296/image.jpeg" class="" height="166" width="296" alt="n12 nj tech check" title="n12 nj tech check..."/>
+    </a>
+        <p>
+         News 12 takes a look at the hottest gadgets and latest tech news.                 </p>
+     </div>
+     <div class="rels"><br><br><a href="http://newjersey.news12.com/features">More Features<span><span></a></div>
+  </div>  
+         			                        </div>
+                     <div class="col ">
+        		  												       	  	                                <div id="featuredEvents" class="module">
+      <h4><a href="http://newjersey.news12.com/travel/events">What's Going On <div class="links"><a class="btn" href="http://newjersey.news12.com/travel/events#!distance=20&town=New+Jersey">View All</a> <a class="btn" href="/events/1.5589290">Submit</a></div></a></h4>
+     <ul>
+   	           				             	        	        			 		         		          		<li class="lead">
+          		            		<a class="img" name="&lid=XLI event:1" href="http://newjersey.news12.com/events/light-show-1.11116414">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11116415.1447348443!/httpImage/image.jpg_gen/derivatives/preview_115/image.jpg" class="" height="86" width="115" alt="Seasons Greetings" title="Seasons Greetings..."/>
+    </a>
+          		          		<p>									<span class="label">Augusta</span>				           		<a name="&lid=XLI event:1" href="http://newjersey.news12.com/events/light-show-1.11116414">Light Show</a>
+           		<span class="time">Sun. 1/3/2016 4:30-10 p.m.<br/></span>
+          		</p>
+          		</li>
+            	        	                 				             	        	        	          		          			<li>          			<span class="label">Manasquan</span>		  		          		<a name="&lid=XLI event:2" href="http://newjersey.news12.com/events/the-big-holiday-show-1.11124049">The Big Holiday Show</a>          		<span class="time">Sun. 12/27 2-4 p.m.<br/></span>          		</li>
+          		        	                 				             	        	        	          		          			<li>          			<span class="label">New York</span>		  		          		<a name="&lid=XLI event:3" href="http://www.newsday.com/entertainment/long-island-events/jersey-boys-1.808792">Jersey Boys</a>          		<span class="time">Weekly: Sun. 3 p.m.; Tue. 7 p.m.; Wed. 2 p.m.,  7 p.m.; Thu. 7 p.m.; Fri. 8 p.m.; Sat. 2 p.m.,  8 p.m.</span>          		</li>
+          		        	                 				             	        	        	               </ul>
+   <div class="cal">
+                  	   	 	   	             
+      <h5>Find events</h5>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151207&distance=20&town=New+Jersey">Dec<span>7</span></a>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151208&distance=20&town=New+Jersey">Dec<span>8</span></a>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151209&distance=20&town=New+Jersey">Dec<span>9</span></a>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151210&distance=20&town=New+Jersey">Dec<span>10</span></a>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151211&distance=20&town=New+Jersey">Dec<span>11</span></a>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151212&distance=20&town=New+Jersey">Dec<span>12</span></a>
+      <a class="btn" name="&lid=XLI calendar" href="http://newjersey.news12.com/travel/events#!seldate=20151213&distance=20&town=New+Jersey">Dec<span>13</span></a>
+   </div>
+ </div>
+           							          			                     	  	                				   				   <div class="module cubeAd">
+	        	<div class="adBanner">
+   </div> 
+	      <p>advertisement | <a name="name" href="http://newjersey.news12.com/advertise">advertise on News 12</a></p>
+	     																	
+							     		   		</div>
+						         			          			                     	  	                  					<div class="module  sm">
+	<h2>	    		<a href="http://newjersey.news12.com/travel">New Jersey Travel</a>    	</h2>    	  	          										
+												     				<div class="lead sml ">
+					<a href="http://newjersey.news12.com/travel/events?date=This+weekend&town=New+Jersey">                                <img src="http://cdn.newsday.com/polopoly_fs/1.5742082.1375112440!/httpImage/image.JPG_gen/derivatives/preview_115/image.JPG" class="" height="86" width="115" alt="Discover Hoboken's history at the Hoboken Historical and" title="Discover Hoboken's history at the Hoboken Historical and..."/>
+      </a>
+					<a class="hl" href="http://newjersey.news12.com/travel/events?date=This+weekend&town=New+Jersey">Things To Do in New Jersey</a>
+					</div>
+       								    	  	             																<div class="ul">
+													<a href="/news/vietnam-war-display-up-at-morris-county-library-1.11058303">Vietnam War display up at Morris County Library</a>
+									    	  	             																				<a href="/news/red-bank-s-historic-count-basie-theater-unveils-20m-expansion-project-1.11012990">Count Basie Theater unveils $20M expansion project</a>
+									    	  	             																				<a href="/news/mountain-creek-ski-resort-prepares-for-upcoming-season-1.10983669">Mountain Creek prepares for upcoming ski season</a>
+									    	  	             																				<a href="/news/newark-unveils-martin-luther-king-jr-statue-on-mlk-jr-blvd-1.10963854">Newark unveils Martin Luther King Jr. statue</a>
+									    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				    	  	             				        		</div><!-- end: div class="ul" -->
+	    		<div class="rels"><br><br><a href="http://newjersey.news12.com/travel">Travel Section<span></span></a><a href="http://newjersey.news12.com/travel/events">Events<span></span></a></div>
+	  </div><!-- end: div class="module" -->
+           			                        </div>
+                     <div class="col right">
+        		  												      	  	  	  <div id="twitFaceLrg" class="module buzz tabbedPanel ">
+      		<h2><span class="bn"></span>Social Media</h2>	            <ul class="tabs">
+                                                            <li class="auto"><h3><a href="#tab_4751396">Facebook</a></h3></li>
+                                                                            <li class="auto"><h3><a href="#tab_5427535">Twitter</a></h3></li>
+                                      </ul>
+                                                            <div id="tab_4751396" class="tabContent">
+                    <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FNews12NJ&amp;width=316&amp;height=558&amp;show_faces=true&amp;colorscheme=light&amp;stream=true&amp;border_color&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:316px; height:558px;" allowTransparency="true"></iframe>
+                </div>
+                                                            <div id="tab_5427535" class="tabContent">
+                    <a class="twitter-timeline" href="https://twitter.com/ShawnEBrown/news-12-new-jersey" height="570" data-widget-id="279255878169919488" data-chrome="noheader transparent">Tweets by @News12NJ</a>
+                </div>
+                  </div>
+							          			                     	  	                      
+
+      <div class="module poll norm">
+  	  	  <h4><a href="http://newjersey.news12.com/polls">Question of the Day</a></h4>
+  	    <p class="lead" data-region="nj_n12" data-source="web" data-poll-id="poll_1_11202482" data-name="Question of the Day: NJ Bear Hunt" data-token="1952fb5a58a2f88dd7575f462a4f0c81520b372d" data-exp="1Y">Does New Jersey still need a bear hunt?</p>
+                <p id="questionList_1_11202482" >
+                                                     <a class="q  module " href="" data-questionid="0" data-answerid="0" data-voted="78">
+							<span></span>
+						Yes</a>
+                                                               <a class="q  module " href="" data-questionid="0" data-answerid="1" data-voted="77">
+							<span></span>
+						No</a>
+                       </p>
+         <div id="questionResult_1_11202482" class="result" style="display:none;">  		 		 		 				  	    <p>Yes
+	    		    		<span>(78)</span>
+	    		    </p>
+	    <div class="bar">
+	    			    			    			    	    	<div class="barMid" style="width:50%"></div>
+	    	<div class="percent">50%</div>
+	    </div>
+	  	    <p>No
+	    		    		<span>(77)</span>
+	    		    </p>
+	    <div class="bar">
+	    			    			    			    	    	<div class="barMid" style="width:49%"></div>
+	    	<div class="percent">49%</div>
+	    </div>
+	  	 </div>
+	 	      	   <div class="rels">
+	   <a href="javascript:void(0);" class="switch arrow">Show results <span></span></a> <!-- js controls this function of this link & its label -->
+	          	<a href="http://newjersey.news12.com/polls/question-of-the-day-nj-bear-hunt-1.11202482">View All Polls <span></span></a>
+       	   </div>
+  </div>
+           			                        </div>
+            </div>
+ <!-- END midpage -->
+
+<!-- Start Newsday Specials -->
+   <!-- END Newsday Specials -->
+<!-- start downpage -->
+    <div id="downpage">
+                  <div class="col ">
+                                                   	  	                  					<div class="module  sm">
+	<h2>	    		<a href="http://newjersey.news12.com/news/new-jersey-crime-stories-1.4264261">Crime</a>    	</h2>    	  	          										
+																		        						     				<div class="lead sml vid">
+					<a href="http://newjersey.news12.com/news/police-id-double-shooting-suspect-1.11196339">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11196348.1449354223!/httpImage/image.jpeg_gen/derivatives/preview_115/image.jpeg" class="" height="86" width="115" alt="NJdoubleshooting1205" title="NJdoubleshooting1205..."/>
+     <span class='fa fa-play fab'></span> </a>
+					<a class="hl" href="http://newjersey.news12.com/news/police-id-double-shooting-suspect-1.11196339">Police ID double shooting suspect</a>
+					</div>
+       								    	  	          																<div class="ul">
+													<a href="http://newjersey.news12.com/news/police-warn-about-package-thefts-this-holiday-season-1.11194779">Cops warn about package thefts this holiday season</a>
+									    	  	          																				<a href="http://newjersey.news12.com/news/former-wall-school-superintendent-james-habel-going-to-prison-1.11193727">Former Wall school superintendent going to prison</a>
+									    	  	          																				<a href="http://newjersey.news12.com/news/prosecutor-clifton-students-bomb-was-salad-dressing-cinnamon-1.11193483">Prosecutor: Students' 'bomb' was dressing, cinnamon</a>
+									    	  	          																				<a href="http://newjersey.news12.com/news/police-officer-ricardo-arias-vasquez-charged-with-inappropriately-touching-woman-at-traffic-stop-1.11189790">Orange cop charged with criminal sexual contact</a>
+									    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				        		</div><!-- end: div class="ul" -->
+	    		<div class="rels"><a href="http://newjersey.news12.com/news/new-jersey-crime-stories-1.4264261">More Crime Stories<span></span></a> </div>
+	  </div><!-- end: div class="module" -->
+                                               </div>
+                     <div class="col ">
+                                                   	  	                  					<div class="module  sm">
+	<h2>	    		<a href="http://newjersey.news12.com/news/nation-world">Nation/World</a>    	</h2>    	  	          										
+												     				<div class="lead sml ">
+					<a href="http://newjersey.news12.com/news/nation-world/pakistan-intel-officials-say-malik-attended-religious-school-1.11200622">                                <img src="http://cdn.newsday.com/polopoly_fs/1.11201128.1449516112!/httpImage/image.jpg_gen/derivatives/preview_115/image.jpg" class="" height="86" width="115" alt="Students leave the Pharmacy department at Bahauddin Zakariya" title="Students leave the Pharmacy department at Bahauddin Zakariya..."/>
+      </a>
+					<a class="hl" href="http://newjersey.news12.com/news/nation-world/pakistan-intel-officials-say-malik-attended-religious-school-1.11200622">California shooter attended Islamic school in Pakistan</a>
+					</div>
+       								    	  	          																<div class="ul">
+													<a href="http://newjersey.news12.com/news/nation-world/police-drunken-driver-didn-t-realize-she-was-in-new-jersey-1.11202649">Police: Drunken driver didn't realize she was in New Jersey</a>
+									    	  	          																				<a href="http://newjersey.news12.com/news/nation-world/mom-of-newborn-found-buried-alive-in-california-is-arrested-1.11202621">Mom of newborn found buried alive in California is arrested</a>
+									    	  	          																				<a href="http://newjersey.news12.com/news/nation-world/apple-maps-once-a-laughingstock-now-dominates-iphones-1.11201659">Apple Maps, once a laughingstock, now dominates iPhones</a>
+									    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				    	  	          				        		</div><!-- end: div class="ul" -->
+	    		<div class="rels"><a href="http://newjersey.news12.com/news/nation-world">More Nation/World News<span></span></a><a href="http://newjersey.news12.com/news/nation-world/health-stories-1.4254282">Health <span></span></a><a href="http://newjersey.news12.com/news/nation-world/politics-stories-1.4254382">Politics <span></span></a></div>
+	  </div><!-- end: div class="module" -->
+                                               </div>
+                     <div class="col right">
+                                                   	  	                  <div class="module photos">
+  	   	   <h3><a href="https://newjersey.news12.com/user-content/new-jersey-s-facebook-cover-photo-s-1.10642220">Facebook Cover Photos</a></h3>
+ 	      <div class="ul">
+     			    		          <a href="/multimedia/new-jersey-s-facebook-cover-photos-1.10642220" name="name" class="lead">                                <img src="http://cdn.newsday.com/polopoly_fs/1.10642262.1447353009!/httpImage/image.jpg_gen/derivatives/landscape_296/image.jpg" class="" height="166" width="296" alt="Sunset in Sparta" title="Sunset in Sparta..."/>
+    </a>
+        <p>
+         A collection of some of the amazing Facebook cover photos we've selected for our page from viewers.                   (Julie Baumer)
+                </p>
+     </div>
+     <div class="rels"><br><a href="http://newjersey.news12.com/user-content/new-jersey-s-facebook-cover-photo-s-1.10642220">View Photos<span></span></a></div>
+  </div>  
+                                             </div>
+            </div>
+     </div>
+</div>     		 <div class="fullBanner bot">
+	  	     	<div class="adBanner">
+   </div> 
+	 </div>
+					  	    <div id="footer">
+  <div class="inner">
+    <div id="services">
+      <a class="icons fb" href="http://www.facebook.com/News12NJ"><span></span>Join Us On Facebook</a>
+      <a class="icons twit" href="http://twitter.com/#!/News12NJ"><span></span>Join Us On Twitter</a>
+      <a class="icons alert" href="http://newjersey.news12.com/services/sign-up-for-news-alerts-1.4177409"><span></span>Sign Up For News Alerts</a><br>
+      <a class="icons nl" href="http://newjersey.news12.com/services/sign-up-for-news-alerts-1.4177409"><span></span>Sign Up For<br> Newsletters</a>
+      <a class="icons app" href="http://newjersey.news12.com/services/news-12-mobile-apps-1.3991705"><span></span>Get Our <br>Apps</a>
+      <a class="icons mobile" href="http://newjersey.news12.com/services/news-12-to-go-1.3991389"><span></span>News 12<br>TO GO</a>
+      </div>
+    <div id="network">
+    <div>
+      <h6>Our Network:</h6>
+                <span>
+<a href="http://bronx.news12.com"> News12 Bronx </a>
+<a href="http://brooklyn.news12.com"> News12 Brooklyn </a>
+<a href="http://connecticut.news12.com"> News12 Connecticut </a>
+<a href="http://hudsonvalley.news12.com"> News12 Hudson Valley </a>
+<a href="http://longisland.news12.com"> News12 Long Island </a>
+<a href="http://newjersey.news12.com"> News12 New Jersey </a>
+<a href="http://westchester.news12.com"> News12 Westchester </a>
+
+      </span>
+      <span>
+        <a href="http://www.optimum.net/">Optimum</a>
+        <a href="http://www.newsday.com/">Newsday</a>
+        <a href="http://www.msgvarsity.com/">MSG Varsity</a>
+        <a href="http://long-island.newsday.com/">Explore LI</a>
+        <a href="http://www.amny.com/">amNewYork</a>
+        <a href="http://cars.newsday.com">Newsday Cars</a>
+        <a href="http://homes.newsday.com">Newsday Homes</a>
+      </span>
+      </div>
+      <div>
+        <h6>Helpful Links:</h6>
+      <span>
+        <!--<a href="/editorial">Editorial</a>-->
+        <a href="http://newjersey.news12.com/services/contact-us-1.3991796">Contact Us</a>
+        <a href="/1.4287153">News Tips</a>
+        <a href="http://newjersey.news12.com/services/tape-requests-from-news-12-new-jersey-1.4013860">Tape Requests</a>
+      <a href="http://jobs.cablevision.com/job-types/news-and-programming-jobs/">Careers</a>
+        <a href="http://newjersey.news12.com/services/news-12-new-jersey-internships-1.3992430">Internships</a>
+        <a href="http://newjersey.news12.com/services/news-12-site-map-1.3991952">Site Map</a>
+        <a href="http://newjersey.news12.com/services/premium-service-faq-1.3992033">FAQ</a>
+       </span>
+       <span>
+         <a href="http://newjersey.news12.com/onlineaccess">Subscribe</a>
+         <a href="mailto:managemyaccount@news12.com?subject=News12.com Site Feedback">Feedback</a>
+        <a href="http://newjersey.news12.com/services/terms-of-use-1.3991914">Terms of Service</a>
+        <a href="http://newjersey.news12.com/services/privacy-policy-1.3991907">Privacy Policy</a>
+          <a href="http://newjersey.news12.com/services/news-12-rss-feeds-1.4010691">RSS</a>
+        <a href="http://www.news12adsales.com/">Advertise</a>
+             
+      </span>
+         <p>&nbsp;Copyright &copy;
+      <script type="text/javascript">
+         var dateObject=new Date();
+         document.write(dateObject.getFullYear());
+       </script>
+       News 12 Interactive LLC</p>
+      </div>    
+  </div>
+</div>
+</div>
+  
+	    	  		
+			 			 			<div>
+			<a id="aliLogin" href="/login"></a>
+	<a id="meterBox" class="iframe" href="http://newjersey.news12.com/services/news12-new-jersey-login-7.4018279?loginForm=true&meterBox=true"></a>
+		<a id="mmnLogin" class="iframe" href="http://newjersey.news12.com/services/news12-new-jersey-login-7.4018279?loginForm=true&mmnBox=manage"></a>
+	</div>
+			<div class="spop" id="popUp" style="display: none;">
+		<div class="inner">
+			<a class="close" href="#"><i class="fa fa-times-circle"></i></a>
+			<div class="content">
+				<!-- CONTENT HERE -->
+			</div>
+		</div>
+	</div>	
+	
+	
+
+ 	
+		  					<div>
+		<input type="hidden" id="pageSection" value="News 12 New Jersey" />
+		<input type="hidden" id="userSource" value="" />
+	</div>
+	<div id="pageData" data-contenttype="front" data-region="New Jersey" data-omni='{"pagename":"news 12 nj - news, traffic & weather - news 12 nj - ","server":"News 12 New Jersey","sitesection":"News 12 New Jersey","sitesubsection":"News 12 New Jersey","sitesubsection2":"News 12 New Jersey","sitesubsection3":"News 12 New Jersey","sitesubsection4":"News 12 New Jersey","clientip":"172.18.2.77","contenttitle":"News 12 New Jersey - News, Traffic & Weather","contentitemid":"2_9268","contentsource":"","hier":"News 12 New Jersey","omnicode":"","browser":"unknown","datenow":"2015.12.07_18:43","source":"","gate":"false","isopen":"2","section":"News 12 New Jersey","author":"","pubdate":""}'></div>
+	                        	 <script src="http://newjersey.news12.com/build/n12_omniture.min.js"></script>
+                	    
+            <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035499" });
+    (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+    </script>
+    <noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035499&cv=2.0&cj=1" />
+    </noscript>
+    	    	    <script type="text/javascript">
+	    var _sf_async_config={};
+	    /** CONFIGURATION START **/
+	    _sf_async_config.uid = 52307;
+	    _sf_async_config.domain = "newjersey.news12.com";    
+		_sf_async_config.sections = "News 12 New Jersey";
+		_sf_async_config.authors = "";		
+		_sf_async_config.useCanonical = true;
+	    /** CONFIGURATION END **/
+	    (function(){
+	      function loadChartbeat() {
+	        window._sf_endpt=(new Date()).getTime();
+	        var e = document.createElement("script");
+	        e.setAttribute("language", "javascript");
+	        e.setAttribute("type", "text/javascript");
+	        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+	        document.body.appendChild(e);
+	      }
+	      var oldonload = window.onload;
+	      window.onload = (typeof window.onload != "function") ?
+	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	    })();
+	    </script>    
+    		
+							<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4443145.fls.doubleclick.net/activityi;src=4443145;type=RTTBA0;cat=News1003;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+
+
+
+
+
+
+
+
+					  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34382428-5']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+		<script src="http://newjersey.news12.com/js/common/js-init.js"></script>
+	<script>
+		var adzone = "/853/news12.nj.com/main";
+		var frontType = "0";
+		var pageType = "front";
+		var bannerType = "pencil_ad";
+		var expandedCube = "0";
+	</script>
+		<script src="http://newjersey.news12.com/build/footer_news12.min.js"></script>
+	<script>
+	Modernizr.load([
+	 'http://newjersey.news12.com/build/n12_base.min.js',
+	 ]);
+	</script>
+		 
+ <script>
+Modernizr.load([
+ 'http://newjersey.news12.com/build/drive_times.min.js',
+   'http://newjersey.news12.com/build/n12_nj_communities.min.js',
+  'http://newjersey.news12.com/build/n12_front.min.js',
+ 'http://platform.twitter.com/widgets.js'
+]);
+</script>
+
+     </body>
+</html>  
